@@ -21,11 +21,6 @@
         </dependency>
         <dependency>
             <groupId>com.aliyun.openservices</groupId>
-            <artifactId>aliyun-log</artifactId>
-            <version>0.6.7</version>
-        </dependency>
-        <dependency>
-            <groupId>com.aliyun.openservices</groupId>
             <artifactId>log-loghub-producer</artifactId>
             <version>0.1.6</version>
         </dependency>
@@ -45,5 +40,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
